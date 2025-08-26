@@ -11,7 +11,7 @@ This project is my first hands-on task in Mobile App Scripting. The goal was to 
 
 This exercise helped me confirm that my development environment is ready for the rest of the term and I am more than eager to learn more.
 
-Git link
+Git link - https://github.com/ST10470332/Component1.git 
 
 ---
 
